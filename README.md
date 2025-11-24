@@ -1,4 +1,8 @@
 # Smart-expense-tracker
+Problem definition :
+Managing daily expenses is a common challenge for students, professionals, and families.
+Most people tend to lose track of where their money is spent, which leads to poor budgeting and unnecessary spending. Traditional methods like writing expenses in notebooks or using simple mobile notes are inefficient, time-consuming, and difficult to analyze.
+
 The Smart Expense Tracker (SET) allows users to monitor their daily spending, categorize their expenses, and receive monthly summaries of their expenses. The SET aims to improve user spending habits through simple and easy to understand expense tracking.
 
 Objectives
